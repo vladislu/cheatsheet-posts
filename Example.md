@@ -127,5 +127,15 @@ shift+s
 ```
 ```bash
 #auto analysis functions
+aaa 
+```
+
+### Test
+```bash
+#To get help,append ? to the end of any command
+?
+```
+```bash
+#auto analysis functions
 aaa
 ```
