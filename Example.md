@@ -127,5 +127,5 @@ shift+s
 ```
 ```bash
 #auto analysis functions
-aaa
+aaa 
 ```
